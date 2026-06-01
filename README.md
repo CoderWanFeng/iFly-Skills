@@ -48,6 +48,10 @@ We welcome contributions to expand the iFLYTEK skills ecosystem!
 
 **Note:** When you submit a Pull Request, our CLA Assistant bot will automatically ask you to sign the [Contributor License Agreement (CLA)](CLA.md). Please follow the bot's instructions to complete the PR process.
 
+To avoid unrelated `signatures/version1/cla.json` diffs and merge conflicts in fork-based Pull Requests, CLA signatures are stored in a dedicated remote signature repository instead of this codebase.
+
+**Maintainer setup:** configure repository variables `CLA_SIGNATURE_STORE_ORG`, `CLA_SIGNATURE_STORE_REPO`, and optional `CLA_SIGNATURE_STORE_BRANCH`, plus repository secret `CLA_SIGNATURE_STORE_PAT` with write access to the remote signature repository. The branch used to store signatures should not be protected.
+
 ## 📄 License
 
 This project is licensed under the [Apache License 2.0](LICENSE).

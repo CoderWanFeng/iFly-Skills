@@ -48,6 +48,10 @@
 
 **注意：** 当您提交 Pull Request 时，我们的 CLA Assistant 机器人会自动要求您签署 [贡献者许可协议 (CLA)](CLA.md)。请按照机器人的提示完成 PR 流程。
 
+为避免 Fork 场景下的 Pull Request 出现与贡献内容无关的 `signatures/version1/cla.json` 变更和合并冲突，CLA 签名信息会存储在独立的远端签名仓库中，而不是回写到当前代码仓库。
+
+**维护者配置：** 请在仓库中设置变量 `CLA_SIGNATURE_STORE_ORG`、`CLA_SIGNATURE_STORE_REPO`，可选变量 `CLA_SIGNATURE_STORE_BRANCH`，以及带有远端签名仓库写权限的仓库密钥 `CLA_SIGNATURE_STORE_PAT`。用于存储签名的分支不应启用保护。
+
 ## 📄 许可证
 
 本项目基于 [Apache License 2.0](LICENSE) 协议开源。
