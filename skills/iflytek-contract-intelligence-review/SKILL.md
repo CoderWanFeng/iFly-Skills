@@ -7,6 +7,7 @@ description: >
   适用于法务审核、采购合同审查、供应链合规检查等场景。
   关键词：合同审核、风险检测、条款分析、合规校对、contract review、risk detection。
 metadata: {
+  "internal": true,
   "openclaw": "{\"emoji\":\"📋\",\"dimensions\":[\"合同智能审核\",\"风险检测与合规校对\"],\"user_instructions\":[\"帮我审核合同\",\"检查合同风险\",\"合同合规性检查\",\"审核付款条款\",\"审查违约责任\",\"双语合同核对\"],\"requires\":{\"bins\":[\"python3\"],\"env\":[\"OCR_API_ENDPOINT\",\"LLM_API_ENDPOINT\"]},\"primaryEnv\":\"OCR_API_ENDPOINT\"}"
 }
 ---
