@@ -13,6 +13,19 @@
 
 本仓库的目标是为技能的打包、版本控制、维护和外部发布提供一个统一的平台，使科大讯飞的能力在基于智能体的生态系统中更容易被理解、安装、组合和演进。
 
+> **⚠️ Beta** — 本项目处于活跃开发阶段。技能、API 和配置格式可能会在不另行通知的情况下发生变化。我们欢迎您的反馈和贡献。
+
+## 📦 可用注册源
+
+您可以从以下注册源浏览和安装技能：
+
+| 注册源 | 地址 |
+|----------|-----|
+| 讯飞SkillHub (官方平台) | [skill.xfyun.cn](https://skill.xfyun.cn/search?q=ifly-&sort=relevance&page=0&starredOnly=false) |
+| ClawHub | [clawhub.ai/user/iflytek.skills](https://clawhub.ai/user/iflytek.skills) |
+| Skills.sh | [skills.sh/iflytek/ifly-skills](https://www.skills.sh/iflytek/ifly-skills) |
+| SkillHub（腾讯云） | [skillhub.cloud.tencent.com](https://skillhub.cloud.tencent.com/skills?keyword=iflytek-&sortBy=score&source=clawhub) |
+
 ## 🌟 现有技能列表
 
 目前，仓库提供以下开箱即用的 AI 技能：
