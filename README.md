@@ -13,6 +13,19 @@ Beyond atomic skills, this repository is designed to continuously expand toward 
 
 The goal of this repository is to provide a unified place for skill packaging, versioning, maintenance, and external distribution, making iFLYTEK capabilities easier to understand, install, combine, and evolve in agent-based ecosystems.
 
+> **⚠️ Beta** — This project is under active development. Skills, APIs, and configuration formats may change without notice. We welcome feedback and contributions.
+
+## 📦 Available Registries
+
+You can browse and install skills from the following registries:
+
+| Registry | URL |
+|----------|-----|
+| iFLYTEK Skillhub (Official) | [skill.xfyun.cn](https://skill.xfyun.cn/search?q=ifly-&sort=relevance&page=0&starredOnly=false) |
+| ClawHub | [clawhub.ai/user/iflytek.skills](https://clawhub.ai/user/iflytek.skills) |
+| Skills.sh | [skills.sh/iflytek/ifly-skills](https://www.skills.sh/iflytek/ifly-skills) |
+| SkillHub (Tencent Cloud) | [skillhub.cloud.tencent.com](https://skillhub.cloud.tencent.com/skills?keyword=iflytek-&sortBy=score&source=clawhub) |
+
 ## 🌟 Available Skills
 
 Currently, the repository provides the following ready-to-use AI skills:
