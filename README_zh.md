@@ -25,6 +25,7 @@
 | ClawHub | [clawhub.ai/user/iflytek.skills](https://clawhub.ai/user/iflytek.skills) |
 | Skills.sh | [skills.sh/iflytek/ifly-skills](https://www.skills.sh/iflytek/ifly-skills) |
 | SkillHub（腾讯云） | [skillhub.cloud.tencent.com](https://skillhub.cloud.tencent.com/skills?keyword=iflytek-&sortBy=score&source=clawhub) |
+| SkillsMP | [skillsmp.com/creators/iflytek](https://skillsmp.com/zh/creators/iflytek) |
 
 ## 🌟 现有技能列表
 

@@ -25,6 +25,7 @@ You can browse and install skills from the following registries:
 | ClawHub | [clawhub.ai/user/iflytek.skills](https://clawhub.ai/user/iflytek.skills) |
 | Skills.sh | [skills.sh/iflytek/ifly-skills](https://www.skills.sh/iflytek/ifly-skills) |
 | SkillHub (Tencent Cloud) | [skillhub.cloud.tencent.com](https://skillhub.cloud.tencent.com/skills?keyword=iflytek-&sortBy=score&source=clawhub) |
+| SkillsMP | [skillsmp.com/creators/iflytek](https://skillsmp.com/creators/iflytek) |
 
 ## 🌟 Available Skills
 
